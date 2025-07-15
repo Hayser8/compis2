@@ -1,0 +1,4 @@
+configs
+program/__pycache__
+# Python virtual environments
+venv/
